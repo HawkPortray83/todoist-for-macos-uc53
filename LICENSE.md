@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Todoist for macOS script with Todoist for macOS elite Script - dark mode and calendar integration. Featuring dark mode and calendar integration, it's the best
 
 
 
